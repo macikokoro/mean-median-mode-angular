@@ -1,0 +1,30 @@
+{
+  "name": "mean-median-mode-angular",
+  "version": "0.0.1",
+  "description": "==================================================== ## Set-up ------------- - Gruntfile - bower.json - package.json - server.js - .gitignore",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macikokoro/mean-median-mode-angular.git"
+  },
+  "author": "JQ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macikokoro/mean-median-mode-angular/issues"
+  },
+  "homepage": "https://github.com/macikokoro/mean-median-mode-angular",
+  "dependencies": {
+    "express": "^4.9.0"
+  },
+  "devDependencies": {
+    "debowerify": "^0.8.1",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.0.1",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.5.0"
+  }
+}

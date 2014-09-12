@@ -1,0 +1,21 @@
+{
+  "name": "mean-median-mode-angular",
+  "version": "0.0.1",
+  "authors": [
+    "JQ"
+  ],
+  "main": "server.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/macikokoro/mean-median-mode-angular.git",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
